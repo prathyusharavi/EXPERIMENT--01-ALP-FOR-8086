@@ -1,5 +1,5 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : YENUGANTI PRATHTUSHA
+Name : YENUGANTI PRATHYUSHA
 Roll no : 212223240187
 Date of experiment :
 
@@ -89,8 +89,11 @@ HLT
  ![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/b0b1aabb-5d61-48b6-8d5e-e8ac5dc945eb)
 
 ## Subtraction   of 8 bit numbers  ALP 
+```
+```
  
-## Output  
+## Output
+
 ## Multiplication alp 
  ## Output  
 
