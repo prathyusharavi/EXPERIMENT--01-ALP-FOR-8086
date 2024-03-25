@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
+Name : YENUGANTI PRATHTUSHA
+Roll no : 212223240187
 Date of experiment :
 
 
@@ -77,12 +77,17 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 
 ## Programs for arithmetic  operations
 
-## Addition  of 8 bit ALP 
-
-
-
+## Addition  of 8 bit ALP
+```
+MOV AL,88H
+MOV BL,65H
+ADD AL,BL
+HLT
+```
 ## Output  
- 
+
+ ![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/b0b1aabb-5d61-48b6-8d5e-e8ac5dc945eb)
+
 ## Subtraction   of 8 bit numbers  ALP 
  
 ## Output  
