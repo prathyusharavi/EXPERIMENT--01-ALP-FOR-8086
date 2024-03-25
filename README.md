@@ -88,11 +88,17 @@ HLT
 
  ![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/b0b1aabb-5d61-48b6-8d5e-e8ac5dc945eb)
 
-## Subtraction   of 8 bit numbers  ALP 
+## Subtraction   of 8 bit numbers  ALP
 ```
+MOV AL,84H
+MOV BL,63H
+SUB AL,BL
+HLT
 ```
  
 ## Output
+![Uploading image.png…]()
+
 
 ## Multiplication alp 
  ## Output  
