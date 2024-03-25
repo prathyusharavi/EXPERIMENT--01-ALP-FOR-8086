@@ -1,7 +1,7 @@
-# EXPERIMENT--01-ALP-FOR-8086
+## EXPERIMENT--01-ALP-FOR-8086
 Name : YENUGANTI PRATHYUSHA
 Roll no : 212223240187
-Date of experiment :
+Date of experiment :22-02-2024
 
 
 
@@ -97,19 +97,75 @@ HLT
 ```
  
 ## Output
-![Uploading image.png…]()
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/3c61851a-ab5c-436a-92e7-f3cfbf152524)
 
 
-## Multiplication alp 
- ## Output  
+## Multiplication alp
+```
+MOV AL,75H
+MOV BL,32H
+MUL BL
+HLT
+```
+ ## Output 
+ 
+ 
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/f845f725-e3a1-4617-890c-93d12ec09923)
 
 
 ## Division alp 
+```
+MOV AL,68H
+MOV BL,18H
+DIV BL
+HLT
+```
 
-## Output  
+## Output
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/70a8592f-05e9-4baa-980d-6d8b75eeffe9)
 
+## AND OF 8 bit number ALP
+```
+MOV AL,33H
+MOV BL,44H
+AND AL,BL
+HLT
+```
+## Output
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/78f6db7a-5876-4e36-9447-a487f8e08a6d)
+
+## OR of 8 bit number ALP
+```
+MOV AL,45H
+MOV BL,66H
+OR AL,BL
+HLT
+```
+## Output
+
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/9c029f72-b187-4e0d-9ff0-43db8891b8af)
+
+## NOT of 8 bit number ALP
+```
+MOV AL,65H
+NOT AL
+HLT
+```
+## Output
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/55dd5b0f-b416-4217-a899-416d680193ee)
+
+## XOR of 8 bit number ALP
+```
+MOV AL,66H
+MOV BL,77H
+XOR AL,BL
+HLT
+```
+## Output
+![image](https://github.com/prathyusharavi/EXPERIMENT--01-ALP-FOR-8086/assets/147474424/2149da6e-a74a-4edf-a302-63382ea94da8)
 
 ## Result :
+ The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
  
 
 
